@@ -1,5 +1,6 @@
 # Smokie
 
+![image](https://github.com/siddhantmishra-4098/Smoke-Detector/assets/90679433/abe4873f-7c3b-4d33-a67b-6048b7620393)
 
 
 ### Efficient Real-Time Smoke Detection Module
